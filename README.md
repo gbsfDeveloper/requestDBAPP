@@ -4,6 +4,7 @@ This is a small app developed with Javascript (FrontEnd) and PHP (backend)
 
 This app uses JQUERY library
 
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 ## Installation
 
 - All the `code` required to get started
