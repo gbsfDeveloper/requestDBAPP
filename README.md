@@ -21,7 +21,7 @@ This app uses JQUERY library
   ```
   
   
-  [![Image1](https://drive.google.com/file/d/1j1p4CLvBGsyJppixn6fEPcAbGq-0Qur5/view?usp=sharing?v=3&s=200)](https://drive.google.com/file/d/1j1p4CLvBGsyJppixn6fEPcAbGq-0Qur5/view?usp=sharing)
+  [![Image1](https://raw.githubusercontent.com/gbsfDeveloper/requestDBAPP/master/src/querySearch.PNG?v=3&s=200)](https://drive.google.com/file/d/1j1p4CLvBGsyJppixn6fEPcAbGq-0Qur5/view?usp=sharing)
 
 ### Clone
 
