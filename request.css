@@ -1,0 +1,60 @@
+html{
+    font-size: 100%;   
+}
+body{
+    box-sizing: border-box;
+}
+#container{
+    width: 80%;
+    margin: auto;
+}
+
+#title{
+    width: 100%;
+    text-align: center;
+    font-size: 3em;
+}
+
+#radioSection{
+    width: 100%;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#searchSection{
+    width: 60%;
+    margin: auto;
+}
+
+#inputSearch{
+    width: 70%;
+    margin: 10px 0px;
+    padding: 1em 1em;
+}
+
+#buttonSearch{
+    width: 20%;
+    margin: 10px 0px;
+    padding: 1em 1em;
+    background-color: #4298f4;
+    border: 1px solid #4298f4;
+    color:white;
+}
+#dataBaseQuery{
+    background-color: #f2f2f2;
+    width: 50%;
+    margin: 10px auto;
+    padding: 1em;
+    text-align: left;
+}
+#databaseResults{
+    background-color: #c9f0ff;
+    width: 50%;
+    margin: auto;
+    padding: 1em;
+    text-align: left;
+}
+
+.hidden{
+    overflow: auto;
+}

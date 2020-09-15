@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="request.css">
+    <title>QUERIES</title>
+</head>
+<script src="./src/jquery-3.5.1.js"></script>
+<script src="./request.js"></script>
+<body>
+    <div id="container">
+        <p id="title">Search Query</p>
+        <div id="radioSection">
+          <input type="radio" id="query1" name="queryType" value="User" checked>
+          <label for="query1">User</label>
+      
+          <input type="radio" id="query2" name="queryType" value="logTracking">
+          <label for="query2">logTracking</label>
+          
+          <input type="radio" id="query3" name="queryType" value="Hiring">
+          <label for="query3">Hiring</label>
+        </div>
+        
+        <div id="searchSection">
+            <input id="inputSearch" type="text" placeholder="ID">
+            <button id="buttonSearch">Buscar</button>
+        </div>
+    </div>
+    <div id="dataBaseQuery">
+        
+    </div>
+    <div id="databaseResults">
+
+    </div>
+</body>
+</html>
